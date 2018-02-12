@@ -1,0 +1,82 @@
+[
+  {
+    "_type": "CreditTransaction",
+    "transactionId": "0220161114995957",
+    "currency": "EUR",
+    "bookingDate": "2017-12-04",
+    "valueDate": "2017-12-04",
+    "typeDescription": "Pano",
+    "amount": "-48.79",
+    "creditorName": "Verkkokauppa Lahjakortti"
+  },
+  {
+    "_type": "CreditTransaction",
+    "transactionId": "0220161114995926",
+    "currency": "EUR",
+    "bookingDate": "2017-12-04",
+    "valueDate": "2017-12-04",
+    "typeDescription": "Korttiosto",
+    "amount": "-6.13",
+    "creditorName": "K market Metsäkulma"
+  },
+  {
+    "_type": "CreditTransaction",
+    "transactionId": "0220161114995926",
+    "currency": "EUR",
+    "bookingDate": "2017-12-04",
+    "valueDate": "2017-12-04",
+    "typeDescription": "Korttiosto",
+    "amount": "-206.30",
+    "creditorName": "Prisma Espoo"
+  },
+  {
+    "_type": "CreditTransaction",
+    "transactionId": "0220161114995926",
+    "currency": "EUR",
+    "bookingDate": "2017-12-04",
+    "valueDate": "2017-12-04",
+    "typeDescription": "Korttiosto",
+    "amount": "-1000.13",
+    "creditorName": "Tesla Shop FI"
+  },
+  {
+    "_type": "DebitTransaction",
+    "transactionId": "0220161114995957",
+    "currency": "EUR",
+    "bookingDate": "2017-12-04",
+    "valueDate": "2017-12-04",
+    "typeDescription": "Pano",
+    "amount": "200.00",
+    "debtorName": "MyCompany Oy"
+  },
+  {
+    "_type": "DebitTransaction",
+    "transactionId": "0220161114995957",
+    "currency": "EUR",
+    "bookingDate": "2017-12-04",
+    "valueDate": "2017-12-04",
+    "typeDescription": "Pano",
+    "amount": "400.20",
+    "debtorName": "MyConsultant Oy"
+  },
+  {
+    "_type": "DebitTransaction",
+    "transactionId": "0220161114995957",
+    "currency": "EUR",
+    "bookingDate": "2017-12-04",
+    "valueDate": "2017-12-04",
+    "typeDescription": "Pano",
+    "amount": "40.77",
+    "debtorName": "Amazon Redeem"
+  },
+  {
+    "_type": "CreditTransaction",
+    "transactionId": "0220161114995957",
+    "currency": "EUR",
+    "bookingDate": "2017-12-04",
+    "valueDate": "2017-12-04",
+    "typeDescription": "Pano",
+    "amount": "-28.40",
+    "creditorName": "Spotify"
+  }
+]
